@@ -49,7 +49,7 @@
 </script>
 
 <div
-  class="flex h-[800px] w-[500px] flex-col overflow-hidden rounded-lg border border-neutral-200 bg-white shadow-sm"
+  class="flex h-[800px] w-[500px] flex-col overflow-hidden rounded-lg border border-neutral-200 bg-red-500 shadow-sm"
 >
   <div
     {@attach captureScrollRoot}
