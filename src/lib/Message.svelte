@@ -16,7 +16,7 @@
 </script>
 
 <div class="message-root" {@attach enterAnimation}>
-  <div class="sender">{sender}</div>
+  <div class="sender">From: {sender}</div>
   <div class="body">{message}</div>
 </div>
 
